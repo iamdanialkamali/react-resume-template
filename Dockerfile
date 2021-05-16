@@ -4,5 +4,7 @@ WORKDIR /app
 COPY . .
 RUN yarn install --production
 RUN yarn build
+EXPOSE 8000
 CMD ["node", "./server.js"]
+
 

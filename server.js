@@ -1,10 +1,9 @@
 const express = require('express');
-const app = express();
-
 // const useragent = require('express-useragent');
 // const mongoose = require('mongoose')
 // const path = require('path');
 //
+// const app = express();
 // const axios = require('axios');
 //
 // const { Schema } = mongoose;

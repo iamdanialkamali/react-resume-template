@@ -4,8 +4,6 @@ services:
     build: .
     ports:
       - "8000:8000"
-    environment:
-      FLASK_ENV: development
   mongodb:
     image: mongo:latest
     container_name: "mongodb"

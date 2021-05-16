@@ -47,7 +47,7 @@
       {
         "school":"Iran University of Science and Technology",
         "degree":"Bsc Computer Eng",
-        "graduated":"Expexted July 2020",
+        "graduated":"Expected July 2020",
         "description":"Ranked 1st in yearly evaluation of  CS department students 2020"
       },
       {
@@ -90,11 +90,11 @@
       },
       {
         "name":"Keras",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"Tensorflow",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"Django",

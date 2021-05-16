@@ -5,7 +5,6 @@ COPY . .
 RUN npm install pm2 -g
 RUN yarn install --production
 RUN yarn build
-EXPOSE 8000
-CMD ["pm2", "start","server.js"]
+RUN pm2 start server.js
 
 
